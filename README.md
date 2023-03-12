@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dawnstar2003
-- 👀 I’m interested in Programming
-- 🌱 I’m currently doing computer science and engineerign
+An enthusiastic learner.
 
 
 <!---
